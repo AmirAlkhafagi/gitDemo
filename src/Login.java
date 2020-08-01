@@ -1,9 +1,5 @@
-public class HelloB20 {
+public class Login {
     public static void main(String[] args) {
 
-
     }
-
-
-    }
-
+}
